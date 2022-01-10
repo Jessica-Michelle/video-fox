@@ -1,0 +1,36 @@
+html {
+	background: #242a2d;
+}
+
+p {
+	color: white;
+}
+
+#root {
+	background: #242a2d;
+}
+
+.ui.segment:first-child {
+	margin-top: 1rem;
+	padding-left: 0;
+	background: transparent;
+}
+
+.ui.segment:last-child {
+	padding-left: 0;
+	background: transparent;
+}
+
+.ui.form .field .ui.input input {
+	border-radius: 500rem;
+	border: 2px solid #1fd6c7;
+	background: none;
+}
+
+.ui.header:first-child {
+	color: #1fd6c7;
+}
+
+.ui.list > .item > img.image {
+	margin-right: 1rem;
+}

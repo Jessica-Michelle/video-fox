@@ -1,0 +1,18 @@
+.video-item {
+	display: flex !important;
+	align-items: center !important;
+	cursor: pointer;
+	border: #1fd6c7;
+}
+
+.ui.list > .item .header {
+	color: white;
+}
+
+.video-item.item img {
+	max-width: 180px;
+}
+
+.ui.divided.list > .item {
+	border-top: 1px solid #1fd6c7;
+}
