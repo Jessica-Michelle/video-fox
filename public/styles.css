@@ -25,6 +25,7 @@ p {
 	border-radius: 500rem;
 	border: 2px solid #1fd6c7;
 	background: none;
+	color: white;
 }
 
 .ui.header:first-child {
